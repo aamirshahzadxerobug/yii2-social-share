@@ -48,13 +48,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ composer require yiimaker/yii2-social-share
+$ composer require xerobug/yii2-social-share
 ```
 
 or add
 
 ```
-"yiimaker/yii2-social-share": "~1.0"
+"xerobug/yii2-social-share": "dev-main"
 ```
 
 to the `require` section of your `composer.json`.
